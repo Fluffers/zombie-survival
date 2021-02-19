@@ -1,4 +1,4 @@
-# zombie survival (nie miałem sprite'ów dinozaurów)
+# zombie survival
 Projekt zaliczeniowy z Metod i Technik Programowania na pierwszym roku studiów
 
 Okienkowa gra singleplayer z widokiem od góry, sterowaniem klawiaturą i myszką, oparta na kafelkach. 
